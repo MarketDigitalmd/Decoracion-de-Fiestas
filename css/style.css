@@ -393,7 +393,7 @@ table {
     z-index: 1;
 }
 .footer a {
-    color: #fff;
+    color: rgb(3, 3, 3);
 }
 
 .footer .footer-top {
@@ -413,7 +413,7 @@ table {
     color: #fcfbfa;
 }
 .footer .widget, .footer address {
-    color: #999;
+    color: rgb(255, 253, 253);
     text-transform: none;
     font-style: normal;
     padding-bottom: 15px;
@@ -426,7 +426,7 @@ table {
     display: inline-block;
 }
 #contact{
-    background-color: rgba(168, 14, 122, 0.33);
+    background-color: rgba(10, 10, 10, 0.33);
 }
 .footer .social-list a {
     font-size: 32px;
